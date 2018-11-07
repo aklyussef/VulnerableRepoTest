@@ -7,3 +7,4 @@ FEATURE X
 FEATURE X
 VULNERABLE LINE X
 
+//vulnerability discovered
